@@ -1,0 +1,12 @@
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\AiWin_New.exe.config
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\AiWin_New.exe
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\AiWin_New.pdb
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\Dapper.dll
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\log4net.dll
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\Topshelf.dll
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\Dapper.xml
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\log4net.xml
+D:\UCFAR\AiWin_New\AiWin_New\bin\Debug\Topshelf.xml
+D:\UCFAR\AiWin_New\AiWin_New\obj\Debug\AiWin_New.exe
+D:\UCFAR\AiWin_New\AiWin_New\obj\Debug\AiWin_New.pdb
+D:\UCFAR\AiWin_New\AiWin_New\obj\Debug\AiWin_New.csprojResolveAssemblyReference.cache

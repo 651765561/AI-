@@ -1,0 +1,14 @@
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\libhostpolicy.so
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\libhostfxr.so
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\log4net.config
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux.deps.json
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux.runtimeconfig.json
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux.runtimeconfig.dev.json
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux.dll
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\bin\Release\netcoreapp2.0\linux-x64\AiWinLinux.pdb
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\obj\Release\netcoreapp2.0\linux-x64\AI.csproj.CoreCompileInputs.cache
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\obj\Release\netcoreapp2.0\linux-x64\AI.AssemblyInfoInputs.cache
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\obj\Release\netcoreapp2.0\linux-x64\AI.AssemblyInfo.cs
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\obj\Release\netcoreapp2.0\linux-x64\AiWinLinux.dll
+F:\Work\于工源码\于工源码\AI（运维诊断）\AI\obj\Release\netcoreapp2.0\linux-x64\AiWinLinux.pdb

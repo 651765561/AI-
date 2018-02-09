@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Webs\AI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AiWinLinux.deps.json">
+      <publishTime>12/25/2017 13:48:50</publishTime>
+    </File>
+    <File Include="AiWinLinux.dll">
+      <publishTime>12/25/2017 13:48:41</publishTime>
+    </File>
+    <File Include="AiWinLinux.pdb">
+      <publishTime>12/25/2017 13:48:41</publishTime>
+    </File>
+    <File Include="AiWinLinux.PrecompiledViews.dll">
+      <publishTime>12/25/2017 13:48:48</publishTime>
+    </File>
+    <File Include="AiWinLinux.PrecompiledViews.pdb">
+      <publishTime>12/25/2017 13:48:48</publishTime>
+    </File>
+    <File Include="AiWinLinux.runtimeconfig.json">
+      <publishTime>12/25/2017 13:48:50</publishTime>
+    </File>
+    <File Include="appsettings.Development.json">
+      <publishTime>12/01/2017 10:42:55</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>12/21/2017 16:14:21</publishTime>
+    </File>
+    <File Include="Dapper.dll">
+      <publishTime>11/25/2017 18:18:42</publishTime>
+    </File>
+    <File Include="log4net.config">
+      <publishTime>10/08/2017 22:58:28</publishTime>
+    </File>
+    <File Include="log4net.dll">
+      <publishTime>03/08/2017 19:26:22</publishTime>
+    </File>
+    <File Include="MySqlConnector.dll">
+      <publishTime>12/03/2017 13:42:32</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 13:57:10</publishTime>
+    </File>
+    <File Include="Quartz.dll">
+      <publishTime>10/08/2017 10:12:20</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netcoreapp2.0/System.Text.Encoding.CodePages.dll">
+      <publishTime>11/14/2017 15:14:52</publishTime>
+    </File>
+    <File Include="runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="System.Configuration.ConfigurationManager.dll">
+      <publishTime>07/19/2017 10:01:30</publishTime>
+    </File>
+    <File Include="System.Security.Cryptography.ProtectedData.dll">
+      <publishTime>07/19/2017 10:01:34</publishTime>
+    </File>
+    <File Include="System.Text.Encoding.CodePages.dll">
+      <publishTime>11/14/2017 15:14:52</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>12/25/2017 13:48:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

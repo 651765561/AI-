@@ -1,0 +1,5 @@
+D:\UCFAR\AiWinLinux\AiWinLinux
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=AiWinLinux
+--content-root=D:\UCFAR\AiWinLinux\AiWinLinux
+--file=
